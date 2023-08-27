@@ -231,7 +231,20 @@ PRODUCT_PACKAGES += \
     ClockFontFuturrOverlay \
     ClockFontLowerAtmosphereOverlay \
     ClockFontMonbijouxClownpieceOverlay \
-    ClockFontRoundheadsOverlay
+    ClockFontRoundheadsOverlay \
+    ClockFontNewYork-HeavyOverlay \
+    ClockFontNewYork-SemiboldOverlay \
+    ClockFontSFPro-SemiboldOverlay \
+    ClockFontSFPro-SemiboldRailsOverlay \
+    ClockFontSFPro-SemiboldRoundedOverlay \
+    ClockFontSFPro-SemiboldSoftOverlay \
+    ClockFontSFPro-SemiboldStencilOverlay \
+    ClockFont26FGalaxySan \
+    ClockFontAlexana \
+    ClockFontExodar \
+    ClockFontKroppenFwO \
+    ClockFontKroppenOutlineOverlay \
+    ClockFontKroppenRoundOverlay
 
 # Icons
 PRODUCT_PACKAGES += \
